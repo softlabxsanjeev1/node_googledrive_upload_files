@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sound-electron-401308",
+  "private_key_id": "5d63f8f620f29f9af5c2c73cb5cc7250b6838cf1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrAobFfB1+3t6Z\nwwYHfoR2atB3qmLmGPNmgpOTmk7q9ozCERNKZKdJBQUAx+Y/iq/ISfAUBS5jlVQV\n22fGENSRPW7OMM4paUVqFRvXlA2l+uOE3FtXOb9jRt2oFpKkZNRlQcwNvAUtNVNp\n4C9UVtiNvoJ5dTrUJ2uvlccLVCAlRBCbiryFXcfYdBRqwBKHgE7i5r6n1yV42acc\n8rti1p8gvUs9TPmT9o/Pea5HPyzu+qs8dnPy/8FQX0bawbnSuzvel7oLE7RwgFnz\n1E3l6OActFMRePfn+/PlnUkZ5YN2nIpfDwYWo01cIQg76hY0b8kK2Xb/8JjDi8I2\nF4pnBpatAgMBAAECggEAGZ3zRQ9moQ65wcbZLF44xum7+MZpXOv36i89SYB1ZJ/c\n+LqeF9LOzGgYFm8w1UFCkST3oHLLlCyrv+pyDSrll4GLC7rRPJrXGcu3s/+AW+Yi\nwaWmI9beuKcbpTEHHovhf+7vUPoNZyGfMTOyuKuZx6yg1u5HYGiB/8zWraJt06cJ\nM9DaZoeC4IJIeFE6iU4NEbEX1Xr4TGF3sChNDTUujjUQLukYb6jpO2Vo6vixGsgz\nuiC3IcNZFa47eVFRSJ5BYKveYE2RLIeoY9DUpLUDIBpc+zLJKs7kxbrzDD3Y3Op4\nvokCC1hmncaWKEULJm7dbzHCloDxMPhS2mvzA1GecQKBgQDUyrc9bgiGK376PVe6\nXXHm1vcNKwI/GKDyah/aKQtFoj2V9QmM2k9qGEyZrDbC6VPRr5R8AaT7CS6oVdb/\nrxZgRpMzXbVeUd9LTT3mHTZkteOCERLoYWAwGXo6aLyQInEJZGKrsLSDngJ+nz/3\ntA2v8FL09hsBcmpxzLhVW+mSrwKBgQDNu+lXv9cvLaPSqRHEH64SGxLfu2lHrMU0\nDDa0BbAQAnR8MXTqz4Wbd90JDXLWnhyvJEC/y/LY0U7WcEdRMUAdyUCGxuy+gmSS\nKJ/Ztv3dR8xWeL0ByRWI6w2njh/zkdTsAUSxe+Ce9JrWIeIciIk3TGeEgAZGXGPv\nXvAVqqYzYwKBgHeW9iSwElpVV6eLkiJLIhh5956O7VRIoyuaOQyCxLL9217Lt/JR\nPxCBV4uGHcCtIU5XPzvyMKZlIrO4inxoCktRXqkfoS7BFJ1da8xH3qn7D0GqFtZC\n46wkpWzuMAtRT/XXVRzo0oql4wEGvwyXRJn8lqLVLZhClVAfnflbDopBAoGBAL6f\nNNaEPupMvHTtCDQTMmM+SJ+aczLhBxtxkaH9fyNmUu3bmTwTqfTh+6BuoI/wkh1J\nVuEfJFT2oriX8cxt+L1ggnQejq75/BtcnrfIELJd2xvn5SBpY5WoTM+KJVq2LXW6\nux5D7Fz7wRdU77+GVrUxCt0/DhFVe5cH/SXmJvaHAoGARUMHfODtzLm33Ag34V1V\niucrTSL/9UMr19vfjzqkUabyKQ6Si7UP1VGLCssGeTZI+Df7jySjmY1flcLg2QLn\nLqSj8xa2xhjpiV/buxAZdHAVJMgBhE5Ffs0rBsF9Yrb+BjSJio9AkXAUOSdx+yvh\nE/FdNSlb/S6tbS1S1ACct7c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload@sound-electron-401308.iam.gserviceaccount.com",
+  "client_id": "117721665517323452971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload%40sound-electron-401308.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

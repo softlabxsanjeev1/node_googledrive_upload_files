@@ -20,7 +20,7 @@ app.listen(5050, () => {
 });
 
 
-const KEYFILEPATH = path.join(__dirname, "/* link json file that contain connection ingormation*/");
+const KEYFILEPATH = path.join(__dirname, "cred.json");
 const SCOPES = ["https://www.googleapis.com/auth/drive"];
 
 const auth = new google.auth.GoogleAuth({

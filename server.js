@@ -20,13 +20,14 @@ app.listen(5050, () => {
 });
 
 
-const KEYFILEPATH = path.join(__dirname, "cred.json");
+const KEYFILEPATH = path.join(__dirname, "/* link json file that contain connection ingormation*/");
 const SCOPES = ["https://www.googleapis.com/auth/drive"];
 
 const auth = new google.auth.GoogleAuth({
     keyFile: KEYFILEPATH,
     scopes: SCOPES,
 });
+
 
 
 app.post("/upload", upload.any(), async (req, res) => {
